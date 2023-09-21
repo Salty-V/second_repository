@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(174, 218, 172);
+    background-color: rgb(255, 255, 255);
 }
 
 h1{
@@ -21,7 +21,8 @@ div, h1, h2, h3 {
 .photo_shrek {
     background-color: #0C9;
     border: 3px black dotted;
-    width: 20%;
+    border-radius: 30% 70% 50% 50% / 30% 30% 70% 70% ; 
+    width: 40%;
     margin: auto;
     }
 
@@ -31,3 +32,6 @@ div, h1, h2, h3 {
     width: 40%;
     margin: auto;
     }
+img {
+    border-radius: 50%;
+}
