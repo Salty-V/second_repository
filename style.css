@@ -18,9 +18,16 @@ div, h1, h2, h3 {
     text-align: center;
 }
 
-div {
+.photo_shrek {
     background-color: #0C9;
     border: 3px black dotted;
     width: 20%;
+    margin: auto;
+    }
+
+.texte {
+    background-color: #0C9;
+    border: 3px black dotted;
+    width: 40%;
     margin: auto;
     }
